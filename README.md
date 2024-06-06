@@ -1,10 +1,3 @@
-# Репозиторий 
-https://github.com/nusatov/graduate_work
-
-alembic revision --autogenerate -m 'initial'
-
-alembic upgrade head
-
 ## Статус workflow
 ![Build](https://github.com/nusatov/ugc_sprint_2/actions/workflows/build.yml/badge.svg)
 
